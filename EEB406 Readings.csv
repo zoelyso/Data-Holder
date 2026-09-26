@@ -1,5 +1,5 @@
-﻿Location,Water Temp,Conductivity,Specific Cond,Anions.Fluoride.Concentration,Anions.Chloride.Concentration,Anions.Bromide.Concentration,Anions.Nitrite.Concentration,Anions.Nitrate.Concentration,Anions.Phosphate.Concentration,Anions.Sulfate.Concentration,Cations.Lithium.Concentration,Cations.Sodium.Concentration,Cations.Ammonium.Concentration,Cations.Potassium.Concentration,Cations.Calcium.Concentration,Cations.Magnesium.Concentration
-Taylor,20.9,1201,1308.278867,0.223,328.033,0.124,0.192,4.023,0.676,36.668,0.009,203.639,1.277,1.271,82.658,13.029
-Rouge,23.1,1490,1548.856549,0.159,347.31,0.107,,0.308,,48.682,0.012,204.068,0.084,1.183,96.23,19.037
-Don,20,1411,1567.777778,0.132,312.714,0.127,0.032,2.233,,47.423,0.023,181.732,,0.976,107.557,19.083
-Yellow,23.4,1613,1666.322314,0.217,352.364,0.261,0.028,8.936,0.186,56.823,0.017,202.809,0.042,1.109,127.626,25.59
+location,wtemp,cond,spec_cond,fluoride_a,chloride_a,bromide_a,nitrite_a,nitrate_a,phosphate_a,sulfate_a,lithium_c,sodium_c,ammonium_c,potassium_c,calcium_c,magnesium_c,m_shannon_24,m_shannon_36,m_shannon_45,m_shannon_48,m_shannon_60
+taylor,20.9,1201,1300.726717,0.223,328.033,0.124,0.192,4.023,0.676,36.668,0.009,203.639,1.277,1.271,82.658,13.029,4.438974703,4.434960134,4.495158634,4.506358728,4.528931924
+rouge,23.1,1490,1544.88994,0.159,347.31,0.107,,0.308,,48.682,0.012,204.068,0.084,1.183,96.23,19.037,4.47886843,4.43762027,4.443229126,4.461554388,4.509887756
+don,20,1411,1556.536128,0.132,312.714,0.127,0.032,2.233,,47.423,0.023,181.732,,0.976,107.557,19.083,4.487581726,4.420416033,4.457466733,4.476260428,4.519127721
+yellow,23.4,1613,1662.749464,0.217,352.364,0.261,0.028,8.936,0.186,56.823,0.017,202.809,0.042,1.109,127.626,25.59,4.495587613,4.456096374,4.421030363,4.429356073,4.482076591
